@@ -1,4 +1,4 @@
-# vue-web-stack
+<img width="1245" height="606" alt="Snipaste_2026-09-14_17-51-30" src="https://github.com/user-attachments/assets/f6790cb0-a96f-4817-825e-6d9c29e51a35" /># vue-web-stack
 Vue3 + Node.js 全栈待办事项 (Todo) 项目
 ## 项目简介
 
@@ -37,3 +37,4 @@ npm run dev
 ```bash
 npm run build
 ```
+### 预览网页效果
