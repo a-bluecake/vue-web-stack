@@ -1,5 +1,4 @@
-<img width="1245" height="606" alt="Snipaste_2026-09-14_17-51-30" src="https://github.com/user-attachments/assets/f6790cb0-a96f-4817-825e-6d9c29e51a35" /># vue-web-stack
-Vue3 + Node.js 全栈待办事项 (Todo) 项目
+# Vue3 + Node.js 全栈待办事项 (Todo) 项目
 ## 项目简介
 
 本项目是一套前后端分离的简易 Todo 待办管理系统，前端使用 **Vue3** 构建页面交互，后端使用 **Node.js** 编写 HTTP 接口，实现待办数据的增加、查询、修改、删除功能。
@@ -38,3 +37,5 @@ npm run dev
 npm run build
 ```
 ### 预览网页效果
+
+<img width="1245" height="606" alt="Snipaste_2026-09-14_17-51-30" src="https://github.com/user-attachments/assets/e9e8c905-b752-45ef-8a4c-6a10e12c03d2" />
